@@ -12,4 +12,5 @@ make double
 
 ## Outputs:
 float   ->   -0.0277862
+
 double  ->   -6.76916e-10
